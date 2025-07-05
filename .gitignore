@@ -1,0 +1,16 @@
+
+.DS_Store
+node_modules/
+dist/
+build/
+*.log
+*.zip
+
+
+js/swiper-bundle.min.js
+js/scrollreveal.min.js
+
+
+._*
+.Spotlight-V100
+.Trashes
